@@ -608,6 +608,7 @@ img{
 
 .footer_description{
     margin-bottom: .5rem;
+    font-size: var(--smaller-font-size);
 }
 
 .footer_social{
