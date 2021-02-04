@@ -195,8 +195,8 @@ img {
 }
 
 .home_img {
-    width: 400px;
-    height: 300px;
+    width: 550px;
+    height: 350px;
     border-radius: 30%;
     overflow: hidden;
     margin-bottom: var(--mb-2);
@@ -711,8 +711,8 @@ img {
         text-align: initial;
     }
     .home_img {
-        width: 450px;
-        height: 350px;
+        width: 550px;
+        height: 450px;
     }
     .home_img img {
         width: 100%;
