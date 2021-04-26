@@ -5,7 +5,7 @@
     --font-medium: 500;
     --font-semi-bold: 600;
     --font-bold: 700;
-    --first-color: #97521F;
+    --first-color: #15406D;
     --first-color-dark: #5c2b09;
     --first-color-darken: #030f27;
     --text-color: #000000;
@@ -709,8 +709,8 @@ img {
         text-align: initial;
     }
     .home_img {
-        width: 450px;
-        height: 450px;
+        width: 550px;
+        height: 550px;
     }
     .home_img img {
         width: 100%;
