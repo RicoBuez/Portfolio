@@ -587,6 +587,7 @@ img {
 }
 
 .contact_button {
+  display: block;
   outline: none;
   border: none;
   font-family: var(--body-font);
