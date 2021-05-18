@@ -363,7 +363,10 @@ img {
 }
 
 .skills_css {
-  width: 40%;
+  width: 50%;
+}
+.skills_bootstrap {
+  width: 60%;
 }
 
 .skills_sass {
@@ -371,11 +374,17 @@ img {
 }
 
 .skills_js {
+  width: 40%;
+}
+.skills_ts {
   width: 25%;
 }
 
 .skills_react {
-  width: 35%;
+  width: 45%;
+}
+.skills_next {
+  width: 55%;
 }
 
 .skills_node {
@@ -593,6 +602,7 @@ img {
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
   cursor: pointer;
+  width: 100%;
 }
 
 .contact_info {
@@ -649,7 +659,7 @@ img {
 
 .footer_copy {
   font-size: var(--smaller-font-size);
-  color: var(--text-color);
+  /* color: var(--text-color); */
 }
 
 @media screen and (min-width: 768px) {
