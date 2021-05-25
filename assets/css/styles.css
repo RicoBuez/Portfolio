@@ -202,14 +202,16 @@ img {
 }
 
 .home_img {
-  width: 300px;
-  height: 280px;
+  width: 220px;
+  height: 220px;
   margin-bottom: var(--mb-2);
 }
 
 .home_img img {
   height: 100%;
   width: 100%;
+  border-bottom-left-radius: 35%;
+  border-bottom-right-radius: 35%;
 }
 
 .home_title {
