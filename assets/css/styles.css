@@ -187,6 +187,10 @@ img {
   color: var(--text-color);
 }
 
+.home {
+  min-height: 80vh;
+}
+
 .home_container {
   height: calc(100vh - var(--header-height));
   padding: 30px;
