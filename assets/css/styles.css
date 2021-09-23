@@ -201,6 +201,10 @@ img {
   text-align: center;
 }
 
+.introduction .greeting {
+  font-size: 1.2em;
+}
+
 .home_img {
   width: 220px;
   height: 220px;
