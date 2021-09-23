@@ -152,8 +152,8 @@ img {
   position: absolute;
   top: 1rem;
   right: 1rem;
-  font-size: 2rem;
-  color: var(--first-color-dark);
+  font-size: 3rem;
+  color: var(--first-color-light);
   cursor: pointer;
 }
 
@@ -175,7 +175,7 @@ img {
 
 .nav_toggle {
   color: var(--first-color-dark);
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   cursor: pointer;
 }
 
